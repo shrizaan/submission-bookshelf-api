@@ -36,7 +36,12 @@ npm run start-dev
 
 ## Running the Tests
 
-Currently, there are no tests available for this project.
+You can run the tests using the following command using file inside the postman folder and import that file into postman.
+
+
+## API Documentation
+You can look at the API documentation using url below: http://localhost:9000/documentation
+
 
 ## Built With
 
@@ -60,5 +65,3 @@ This project is licensed under the ISC License.
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-Please note that this README is a general template and might need to be adjusted to fit the exact needs of your project.
