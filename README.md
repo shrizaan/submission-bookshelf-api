@@ -1,5 +1,3 @@
-GitHub Copilot: # Submission Bookshelf API
-
 This project is a simple bookshelf API built with Node.js and the Hapi framework. It allows you to perform CRUD operations on a bookshelf.
 
 ## Getting Started
